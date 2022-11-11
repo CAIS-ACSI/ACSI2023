@@ -29,8 +29,8 @@
 # weight = 60
 
 [[main]]
- name = "Français"
- url = "https://acsi2023.ca"
+ name = "English"
+ url = "https://cais2023.ca"
  weight = 65
 
 #[[main]]
