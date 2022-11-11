@@ -36,6 +36,7 @@ Les soumissions peuvent inclure, mais sans s'y limiter, les éléments suivants 
 De plus, nous accueillons tous les autres rapports sur des projets achevés, sur tout sujet pertinent pour le domaine du BSI.
 
 **Types de propositions**
+
 ACSI/CAIS invite des propositions présentant des recherches empiriques, théoriques ou s’appuyant sur des pratiques. Les propositions peuvent être soumises en anglais ou en français. Toutes les propositions seront soumises à un examen par les pairs en double aveugle et doivent être supprimées des informations d'identification personnelle lors de la soumission initiale.
 
 <b>Communications</b> : Présentations orales de 20 minutes de projets achevés ou bien avancés portant sur des sujets publiables dans des revues savantes.  La préférence sera accordée aux propositions qui rendent compte de recherches achevées ou en cours. Des perspectives (théoriques ou appliquées) diverses et innovantes ainsi que des propositions méthodologiques sont les bienvenues. Les propositions doivent être rédigées sous la forme d’un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises). Prière d’utiliser [ce modèle](https://cais-acsi.ca/wp-content/uploads/2021/10/CAIS-ACSI-2022-Abstract-Template.docx).
