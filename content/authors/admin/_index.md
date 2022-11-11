@@ -11,7 +11,7 @@ superuser: false
 Le 51e Congrès annuel de l’Association canadienne des sciences de l’information / 
 </br>the Canadian Association for Information Science (ACSI/CAIS)
 </br>Le 6 au 9 juin 2023
-</br>CAIS2023.ca
+</br>[CAIS2023.ca](https://cais2023.ca/)
 
 L’Association canadienne des sciences de l’information/The Canadian Association for Information Science (ACSI/CAIS) vous invite à soumettre une proposition pour son 51e congrès annuel du 6 au 9 juin 2023. Pour le quatrième année consécutive, le congrès <b>aura lieu entièrement en ligne et sera gratuit et ouvert à tous</b>.
  
