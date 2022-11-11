@@ -32,6 +32,7 @@ Les soumissions peuvent inclure, mais sans s'y limiter, les éléments suivants 
 * Réalité virtuelle, technologies et espaces d'information
 * Communautés imaginées (Nations, Lecteurs, Amoureux)
 * Le rêve comme expérience d'information
+
 De plus, nous accueillons tous les autres rapports sur des projets achevés, sur tout sujet pertinent pour le domaine du BSI.
 
 **Types de propositions**
