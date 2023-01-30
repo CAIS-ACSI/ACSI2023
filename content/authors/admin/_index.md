@@ -55,7 +55,8 @@ Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur
 
 Pour participer, veuillez remplir [le formulaire d’inscription](https://forms.gle/Bw5kHgvQK4dTPTF46) au plus tard le 15 mai 2023.
 
-<b>La date limite pour la soumission des propositions est le 31 janvier 2023 à minuit, heure du pacifique.</b>
+*DATE D’ÉCHÉANCE PROLONGÉE*
+<b>La date limite pour la soumission des propositions est <s>le 31 janvier 2023 à minuit, heure du pacifique</s> le 10 février 2023 à minuit, heure du pacifique.</b>
 
 Les auteurs seront informés au plus tard le 27 mars 2023. Les versions finales doivent être soumises au plus tard le 15 mai 2023, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la [Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science](https://ojs.lib.uwo.ca/index.php/cjils).
 
