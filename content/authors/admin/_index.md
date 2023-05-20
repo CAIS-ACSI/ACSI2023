@@ -19,48 +19,305 @@ On rencontre et structure le monde par l’imagination. Le fait d’imaginer per
 
 Pour le 51e congrès annuel de l'Association canadienne des sciences de l'information, nous invitons les participants à envisager l'imagination dans ses nombreux sens et formes, de l'imagination des futurs potentiels pour le domaine et notre société, à la nature et à la fonction de l'imagination dans les expériences et les phénomènes informationnels.
 
-Les soumissions peuvent inclure, mais sans s'y limiter, les éléments suivants :
-* Conceptions d'informations ou de documents en tant qu'objets imaginés ou imaginaires
-* L’Imaginaire et modes de connaissance/méthodologies autochtones
-* L'intersection de BSI avec les théories et les théologies de l'esprit
-* Imaginer autrement : information et imaginaires sociaux, libération et l’imagination comme résistant
-* Conceptualisations du temps : structurer le passé par l'imaginaire, et un temps « avant »
-* Les spéculations théoriques de l’avenir
-* Restrictions et contrôle des connaissances à travers des structures imaginées
-* Réinventer l’avenir de la communication savante
-* Envisager l'avenir des sociétés et des métiers de l'information
-* Réalité virtuelle, technologies et espaces d'information
-* Communautés imaginées (Nations, Lecteurs, Amoureux)
-* Le rêve comme expérience d'information
+# Program
 
-De plus, nous accueillons tous les autres rapports sur des projets achevés, sur tout sujet pertinent pour le domaine du BSI.
+<table style="width:100%">
+  <tr>
+      <td colspan=6 style="font-size:20px"><strong>Jour 1 - Mardi 6 Juin</strong> </td>
+  </tr>
+  <tr>
+    <th colspan=2 style="width:20%">Séance</th>
+    <th colspan=2 style="width:20%">Heure (EDT)</th>
+    <th colspan=2 style="width:60%">Présentation</th>
+  </tr>
+  <tr>
+    <td colspan=2>Welcome</td>
+    <td colspan=2>1:00pm - 1:15pm</td>
+    <td colspan=2>Opening Remarks</td>
+  </tr>
+  <tr>
+    <td colspan=2>Séance Plénière D’ouverture</td></br>
+    <td colspan=2>1:15pm - 2:45pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/01.Becker/">Amitiés critiques, mythes technologiques et conception d'une durabilité juste</a></strong><br>
+        <i>Christoph Becker</i>
+  </tr>
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>2:45pm - 3:00pm</td>
+  </tr>
+  <tr>
+    <td colspan=2>Présentation des prix des meilleurs articles</td>
+    <td colspan=2>3:00pm - 4:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/02.Rathi/">Utilisation des hashtags par deux bibliothèques publiques canadiennes : un examen comparatif</a></strong><br>
+        <i>Dinesh Rathi</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>Présentation des prix des meilleurs articles</td>
+    <td colspan=2>3:30pm - 4:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/03.VanderKooy/">La demande de changement : une analyse thématique du mouvement #ProtectLibraryWorkers</a></strong><br>
+        <i>Sam Vander Kooy</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>Présentation des prix des meilleurs articles</td>
+    <td colspan=2>4:00pm - 4:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/04.Bellen/">« Ô auteur, où es-tu ? » Une analyse de l'indexation des affiliations dans les revues canadiennes et du potentiel de recherche bibliométrique</a></strong><br>
+        <i>Simon van Bellen</i>
+    </td>
+  </tr>
+  <tr>
+      <td colspan=6 style="font-size:20px"><strong><font>Jour 2 - Mercredi 7 Juin</font></strong></td>
+  </tr>
+  <tr>
+    <th>Séance</th>
+    <th>Heure (EDT)</th>
+    <th>Track 1</th>
+    <th>Séance</th>
+    <th>Heure (EDT)</th>
+    <th>Track 2</th>
+  </tr>
+  <tr>
+  <td>Panel 1</td>
+    <td>11:00am - 12:30am</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/Panel1/">Bienvenue aux sciences de l'information</a></strong></br>
+    <i>Jenna Hartel, Vishma Bhattarai, Travis Wagner, Laverne Gray, Sandy Littletree, Valerie Nesset and Lin Wang</i>
+    </td>
+  <td>Panel 2</td>
+    <td>11:00am - 12:30am</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/Panel2/">Climate Action</a></strong></br>
+    <i>Luanne Sinnamon, Lisa Nathan, Saguna Shankar, Mckelle Hansen and Diana Marshall</i>
+    </td>
+  </tr>
+  <tr>
+    <td>Break</td>
+    <td colspan=5>12:30pm - 1:00pm</td>
+  </tr>
+  <tr>
+  <td rowspan=2>Travail de bibliothèque</td>
+    <td>1:00pm - 1:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/05.Oliphant/">L'injustice Épistémique Dans Le Travail Des Bibliothèques : Une Étude De Cas Sur Le Harcèlement Sexuel Perpetre Par Les Clients</a></strong><br>
+        <i>Tami Oliphant, Danielle Allard and Angela Lieu</i>
+  </td>
+    <td rowspan=2>Libre accès</td>
+    <td>1:00pm - 1:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/06.Krause/">Mesurer la réutilisation des données dans OpenAlex par les chercheurs, les institutions et les pays</a></strong><br>
+        <i>Geoff Krause, Timothy Bowman, Domenic Rosati, Michael Smit and Philippe Mongeon</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>1:30pm - 2:00pm</td>
+    <td>
+  </td>
+    <td>1:30pm - 2:00pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/08.Simard/">La valeur d'un diamant : comprendre la couverture mondiale des revues diamantaires en libre accès dans Web of Science, Scopus et OpenAlex pour soutenir un avenir ouvert</a></strong><br>
+        <i>Marc-André Simard, Madelaine Hare, Isabel Basson, Vincent Larivière and Philippe Mongeon</i>
+  </td>
+  </tr>
+    <tr>
+    <td>Break</td>
+    <td colspan=5>2:00pm - 2:30pm</td>
+  </tr>
+  
+  <tr>
+  <td rowspan=2>Communications Savantes</td>
+    <td>2:30pm - 3:00pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/09.Riddle/">L'utilisation Des Dépôts Institutionnels Pour L'auto-archivage Dans Les Universités Canadiennes</a></strong><br>
+        <i>Poppy Riddle, Marc-André Simard, Pallavi Gone, Vinson Li and Philippe Mongeon</i>
+  </td>
+    <td rowspan=2>Intelligence artificielle</td>
+    <td>2:30pm - 3:00pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/10.Ridley/">Des protocoles et non des plateformes : le cas de l'IA explicable centrée sur l'humain (HCXAI)</a></strong><br>
+        <i>Michael Ridley</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/11.Bowker/">Imaginer Un Plus Grand Potentiel Pour Les Résumés En Langage Clair : Une Étude De Cas Sur L'édition Scientifique Canadienne</a></strong><br>
+        <i>Lynne Bowker</i>
+  </td>
+    <td>3:00pm - 3:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/12.Shiri/">Imaginer l'IA centrée sur l'humain du futur : de l'idée à l'action</a></strong><br>
+        <i>Ali Shiri</i>
+  </td>
+  </tr>
+  
+  <tr>
+    <td>Break</td>
+    <td colspan=5>3:30pm - 4:00pm</td>
+  </tr>
+  
+  
+  <tr>
+  <td rowspan=4>Comportement informationnel</td>
+    <td>4:00pm - 4:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/13.Cheng/">« Je m'ennuie et je veux quelque chose de nouveau ! » : Acquisition d'informations affectives dans les pratiques culinaires quotidiennes</a></strong><br>
+        <i>Siyao Cheng, Lo Lee, Melissa Ocepek and Merin Oleschuk</i>
+  </td>
+    <td rowspan=4>Bibliothèques et société</td>
+    <td>4:00pm - 4:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/14.Dalmer/">Réinventer des « palais pour le peuple » : un examen critique de l'engagement des bibliothèques publiques dans la société asociale</a></strong><br>
+        <i>Nicole Dalmer, Paulette Rothbauer, Pam McKenzie, Kevin Oswald, Ebenezer Martin-Yeboah and Anne Goulding</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>4:30pm - 5:00pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/15.Willson/">Explorer comment la précarisation complique les pratiques d'information des universitaires canadiens</a></strong><br>
+        <i>Rebekah Willson, Owen Stewart-Robertson, Heidi Julien and Lisa M. Given</i>
+  </td>
+    <td>4:30pm - 5:00pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/16.Bullard/">Communauté, contexte et communication : Réponses des bibliothèques canadiennes aux situations difficiles impliquant la mésinformation ou la désinformation médicale</a></strong><br>
+        <i>Julia Bullard, Caroline Mniszak and Devon Greyson</i>
+  </td>
+  </tr>
+    <tr>  
+    <td>5:00pm - 5:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/17.OBrien/">Réinventer les cadres d'évaluation des bibliothèques et des sciences de l'information pour le travail d'échange de connaissances relationnelles</a></strong><br>
+        <i>Heather O'Brien, Kristina McDavid and Jess Yao</i>
+  </td>
+    <td>5:00pm - 5:30pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/18.Moriarty/">La camelote et la porcelaine inestimable: Une chronologie du catalogage au Musée d'anthropologie</a></strong><br>
+        <i>Peyton Moriarty and Hannah Turner</i>
+  </td>
+  </tr>  
+    <tr>  
+    <td>5:30pm - 6:00pm</td>
+    <td>
+  </td>
+    <td>5:30pm - 6:00pm</td>
+    <td><strong><a href="https://www.cais2023.ca/talk/19.Hill/">“"Peut-être une photo d'un chien et d'un livre" : L'inaccessibilité des flux de médias sociaux des bibliothèques publiques</a></strong><br>
+        <i>Heather Hill and Kevin Oswald</i>
+  </td>
+  </tr>
+  
+  
+  <tr>
+    <td colspan=6 style="font-size:20px"><strong><font>Jour 3 - Jeudi 8 Juin</font></strong></td>
+  </tr>
+  <tr>
+    <th colspan=2>Séance</th>
+    <th colspan=2>Heure (EDT)</th>
+    <th colspan=2>Présentation</th>
+  </tr>
 
-**Types de propositions**
 
-ACSI/CAIS invite des propositions présentant des recherches empiriques, théoriques ou s’appuyant sur des pratiques. Les propositions peuvent être soumises en anglais ou en français. Toutes les propositions seront soumises à un examen par les pairs en double aveugle et doivent être supprimées des informations d'identification personnelle lors de la soumission initiale.
+  <tr>
+    <td colspan=2 rowspan=5>Présentations Eclair<br>
+        <i>Moderator: TBA</i></td>
+    <td colspan=2 rowspan=5>11:00am - 12:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT1.Liu/">Concevoir la présentation des hyperliens pour réduire la surcharge des informations de santé en ligne</a></strong><br>
+        <i>Yifan Liu and Luanne Sinnamon</i>
+  </tr>
 
-<b>Communications</b> : Présentations orales de 20 minutes de projets achevés ou bien avancés portant sur des sujets publiables dans des revues savantes.  La préférence sera accordée aux propositions qui rendent compte de recherches achevées ou en cours. Des perspectives (théoriques ou appliquées) diverses et innovantes ainsi que des propositions méthodologiques sont les bienvenues. Les propositions doivent être rédigées sous la forme d’un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises). Prière d’utiliser <a href="CAIS-ACSI-2022-Abstract-Template.docx">ce modèle</a>.
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT2.Davoudi/">Les vies après la mort numériques : Imaginer des politiques et des réglementations efficaces pour les restes numériques</a></strong><br>
+        <i>Nilou Davoudi</i>
+  </tr>
 
-<b>Panels</b> : Présentations orales de 90 minutes avec 3 panélistes ou plus portant sur des sujets émergents, des tendances, ou des points de vue divergents, et incluant du temps pour les questions et discussions. Les panels sont une occasion de générer des discussions sur des préoccupations communes, dont celles qui sont peu visibles dans la recherche ou encore peu reconnues. Les panels ne devraient pas être simplement constitués d’un ensemble de présentation distincte partageant une thématique donnée; nous encourageons les propositions offrant des opportunités uniques et créatives d’échanger avec les participants dans le cadre du panel. Nous recommandons trois à cinq panélistes en plus d’un modérateur, la liste des panélistes pouvant être modifiée suite à l’acceptation. Les propositions doivent être rédigées sous la forme d'un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises), incluant le sujet à discuter, un aperçu de la structure du panel, et les qualifications et contributions pertinentes de chaque panéliste. Prière d’utiliser <a href="CAIS-ACSI-2022-Abstract-Template.docx">ce modèle</a>.
 
-<b>Présentations Éclairs</b> : Présentations orales de 5 minutes portant un seul élément d'un travail en cours ou une nouvelle idée. Les propositions visant à couvrir l'ensemble d'un projet de recherche ne seront pas acceptées. Le but de ces présentations est de démarrer une discussion, de recevoir des commentaires sur une idée ou de trouver des collaborateurs. Les propositions doivent être sous la forme d'un résumé de 250 mots (références non comprises). Prière d’utiliser <a href="CAIS-ACSI-2022-Abstract-Template.docx">ce modèle</a>.
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT3.Yanaky/">Utiliser des outils de planification immersifs pour réinventer les bibliothèques virtuelles</a></strong><br>
+        <i>Richard Yanaky and Catherine Guastavino</i>
+  </tr>
 
-<b>Les prix ACSI/CAIS pour étudiants et professionnels</b> : Les propositions de communications provenant soit d’étudiants des cycles supérieurs, soit de professionnels seront prises en considération pour ces prix. Le prix ACSI/CAIS décerné à un étudiant comporte une récompense en argent. Les deux lauréats auront la possibilité de publier le manuscrit complet dans la Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science. Pour être considérés pour ces prix, les candidats doivent indiquer dans leur proposition s’ils sont étudiants ou professionnels. Les détails sur ces prix, y compris les lauréats des années précédentes, se trouvent sur le site web de l’ACSI/CAIS : www.cais-acsi.ca/fr/
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT4.Agosto/">Matrices pour la collecte de données dans la recherche d'information : problèmes liés à la réduction et à l'affichage des données</a></strong><br>
+        <i>Denise Agosto and Roger Pereira Domingues</i>
+  </tr>
 
-L’évaluation des propositions portera sur la théorie ou la méthodologie, la clarté, l’impact ou l’originalité, et la qualité globale. Les propositions seront reçues et évaluées via EasyChair. Soumettre votre proposition ici: https://easychair.org/conferences/?conf=caisacsi2023
 
-<b>Forum de la recherche étudiante</b>: Nous avons le plaisir d’inviter les étudiants à la maîtrise et au doctorat à participer au forum de recherche étudiante de l’ACSI. L’objectif du forum est de donner aux étudiants l’occasion de présenter et de discuter de leur projet de recherche, de recevoir de la rétroaction de la part de chercheurs expérimentés, et d’établir des liens avec d’autres étudiants. Les étudiants à tout stade de leur programme sont invités à participer au forum doctoral.
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT5.Renaud/">Avis aux lecteurs multimédias</a></strong><br>
+        <i>Brittany Renaud</i>
+  </tr>
 
-Soyez prêt à faire une présentation informelle de 5 à 10 minutes portant sur un aspect de votre recherche qui sera suivie d’une discussion. Plus de détails vous seront communiqués suite à votre inscription.
 
-Pour participer, veuillez remplir [le formulaire d’inscription](https://forms.gle/Bw5kHgvQK4dTPTF46) au plus tard le 15 mai 2023.
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>12:00pm - 12:30pm</td>
+  </tr>
 
-*DATE D’ÉCHÉANCE PROLONGÉE*
-<b>La date limite pour la soumission des propositions est <s>le 31 janvier 2023 à minuit, heure du pacifique</s> le 10 février 2023 à minuit, heure du pacifique.</b>
 
-Les auteurs seront informés au plus tard le 27 mars 2023. Les versions finales doivent être soumises au plus tard le 15 mai 2023, et seront ensuite publiées sur le site Web et les actes du congrès. Les auteurs sont également encouragés à soumettre leurs articles complétés à la [Revue canadienne des sciences de l’information et de bibliothéconomie / Canadian Journal of Information and Library Science](https://ojs.lib.uwo.ca/index.php/cjils).
+  <tr>
+    <td colspan=2 rowspan=3>Imaginaire et justice sociale</td>
+    <td colspan=2>12:30am - 1:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.AllisonCassin/">Projet de plateforme de terminologies respectueuses et vision de la gouvernance autochtone</a></strong><br>
+        <i>Stacy Allison-Cassin and Camille Callison</i>
+  </tr>
+    
+  <tr>
+    <td colspan=2>1:00am - 1:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">Un passé Noir et informationnel (re)imaginé : le New Negro Intercollegiate Club et les Wonder Books de Chicago en 1927 et 1929</a></strong><br>
+        <i>Laverne Gray and Alex Shoshani</i>
+  </tr>
+  
+  <tr>
+    <td colspan=2>1:30am - 2:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/22.Chabot/">Imaginer Un Avenir Gras : Ajustement Physique Et Figuratif Dans Les Bibliothèques</a></strong><br>
+        <i>Roger Chabot and Heather Hill</i>
+  </tr>
 
-Inscription : Le congrès sera gratuit et ouvert à tous. Aucune inscription n’est requise. 
+
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>2:00pm - 2:30pm</td>
+  </tr>
+
+  <tr>
+    <td colspan=2>Panel 3</td>
+    <td colspan=2>2:30pm - 4:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/Panel3/">Réinventer l'enseignement des SIB : tout ce que nous voulions dire mais que nous avions peur de dire</a></strong><br>
+        <i>Kim Thompson, Briony Birdi, Jenny Bossaller, Keren Dali, Anne Goulding, Sarah Beth Nelson and Emily Vardell</i>
+  </tr>
+
+
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>4:00pm - 4:30pm</td>
+  </tr>
+
+  <tr>
+    <td colspan=2 rowspan=2>Education</td>
+    <td colspan=2>4:30am - 5:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Rathi/">Programmes de doctorat et compétences relationnelles : réflexions des membres du corps professoral</a></strong><br>
+        <i>Dinesh Rathi, Jennifer Branch-Mueller and Crystal Stang</i>
+  </tr>
+    
+  <tr>
+    <td colspan=2>5:00am - 5:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/24.Dold/">L'effacement Des Femmes De L'histoire De La Théorie Politique Occidentale Via La Construction Des Syllabes Et La Classification Des Bibliothèques</a></strong><br>
+        <i>Kayla Dold</i>
+  </tr>
+
+  <tr>
+    <td colspan=6 style="font-size:20px"><strong><font>Jour 4 - Vendredi 9 Juin</font></strong></td>
+  </tr>
+  <tr>
+    <th colspan=2>Séance</th>
+    <th colspan=2>Heure (EDT)</th>
+    <th colspan=2>Évènement</th>
+  </tr>
+  <tr>
+    <td colspan=2>SRF</td>
+    <td colspan=2>11:00am - 1:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/SRF/">Forum annuel de recherche étudiante de l’ACSI</a></strong><br>
+        <i>Open to all<br>
+      Moderator: Danica Facca</i>
+  </td>
+  </tr>
+    <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>1:00pm - 2:00pm</td>
+  </tr>
+  <tr>
+    <td colspan=2>AGM</td>
+    <td colspan=2>2:00pm - 4:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/AGM/">Assemblée générale annuelle de l’ACSI</a></strong><br>
+        <i>Cette réunion est ouverte à toutes et à tous</i>
+    </td>
+  </tr>
+</table>
+
 
 ## Contact 
 Pour plus d'informations, veuillez contacter les organisateurs de la conférence ACSI/CAIS 2023:
