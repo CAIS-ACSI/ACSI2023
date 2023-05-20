@@ -1,5 +1,5 @@
 ---
-title: ""Peut-être une photo d'un chien et d'un livre" : L'inaccessibilité des flux de médias sociaux des bibliothèques publiques"
+title: "“Peut-être une photo d'un chien et d'un livre” : L'inaccessibilité des flux de médias sociaux des bibliothèques publiques"
 event: CAIS2023
 event_url: 
 
