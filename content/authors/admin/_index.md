@@ -19,6 +19,10 @@ On rencontre et structure le monde par l’imagination. Le fait d’imaginer per
 
 Pour le 51e congrès annuel de l'Association canadienne des sciences de l'information, nous invitons les participants à envisager l'imagination dans ses nombreux sens et formes, de l'imagination des futurs potentiels pour le domaine et notre société, à la nature et à la fonction de l'imagination dans les expériences et les phénomènes informationnels.
 
+Zoom:
+* Day 1, 2 (Track 1), 3, and 4: https://westernuniversity.zoom.us/j/91763770204
+* Day 2, Track 2: https://westernuniversity.zoom.us/j/93231662627
+
 # Program
 
 <table style="width:100%">
