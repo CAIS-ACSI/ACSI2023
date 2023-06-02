@@ -21,7 +21,7 @@ Pour le 51e congrès annuel de l'Association canadienne des sciences de l'inform
 
 Zoom:
 * Jour 1, 2 (Piste 1), 3 et 4: https://westernuniversity.zoom.us/j/91763770204
-* Jour 2, Piste 2: https://westernuniversity.zoom.us/j/93231662627
+* Jour 2, Piste 2: https://mcgill.zoom.us/j/87186647549
 
 # Program
 
