@@ -23,6 +23,8 @@ Zoom:
 * Jour 1, 2 (Piste 1), 3 et 4: https://westernuniversity.zoom.us/j/91763770204
 * Jour 2, Piste 2: https://mcgill.zoom.us/j/87186647549
 
+<center>Une version PDF du programme est disponible <a href="CAIS-ACSI 2023 Programme.pdf">ici</a>.</center>
+
 # Program
 
 <table style="width:100%">
