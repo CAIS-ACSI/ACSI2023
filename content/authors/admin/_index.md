@@ -20,8 +20,8 @@ On rencontre et structure le monde par l’imagination. Le fait d’imaginer per
 Pour le 51e congrès annuel de l'Association canadienne des sciences de l'information, nous invitons les participants à envisager l'imagination dans ses nombreux sens et formes, de l'imagination des futurs potentiels pour le domaine et notre société, à la nature et à la fonction de l'imagination dans les expériences et les phénomènes informationnels.
 
 Zoom:
-* Day 1, 2 (Track 1), 3, and 4: https://westernuniversity.zoom.us/j/91763770204
-* Day 2, Track 2: https://westernuniversity.zoom.us/j/93231662627
+* Jour 1, 2 (Piste 1), 3 et 4: https://westernuniversity.zoom.us/j/91763770204
+* Jour 2, Piste 2: https://westernuniversity.zoom.us/j/93231662627
 
 # Program
 
@@ -31,13 +31,13 @@ Zoom:
   </tr>
   <tr>
     <th colspan=2 style="width:20%">Séance</th>
-    <th colspan=2 style="width:20%">Heure (EDT)</th>
+    <th colspan=2 style="width:20%">Heure (HAE)</th>
     <th colspan=2 style="width:60%">Présentation</th>
   </tr>
   <tr>
-    <td colspan=2>Welcome</td>
+    <td colspan=2>Bienvenue</td>
     <td colspan=2>1:00pm - 1:15pm</td>
-    <td colspan=2>Opening Remarks</td>
+    <td colspan=2>Discours inaugural</td>
   </tr>
   <tr>
     <td colspan=2>Séance Plénière D’ouverture</td></br>
@@ -46,7 +46,7 @@ Zoom:
         <i>Christoph Becker</i>
   </tr>
   <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>2:45pm - 3:00pm</td>
   </tr>
   <tr>
@@ -75,11 +75,11 @@ Zoom:
   </tr>
   <tr>
     <th>Séance</th>
-    <th>Heure (EDT)</th>
-    <th>Track 1</th>
+    <th>Heure (HAE)</th>
+    <th>Piste 1</th>
     <th>Séance</th>
-    <th>Heure (EDT)</th>
-    <th>Track 2</th>
+    <th>Heure (HAE)</th>
+    <th>Piste 2</th>
   </tr>
   <tr>
   <td>Panel 1</td>
@@ -89,12 +89,12 @@ Zoom:
     </td>
   <td>Panel 2</td>
     <td>11:00am - 12:30am</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/Panel2/">Climate Action</a></strong></br>
+    <td><strong><a href="https://www.cais2023.ca/talk/Panel2/">Action pour le climat à la bibliothèque : Soutenir la création de sens et la création de sens au milieu de l'incertitude et de la différence</a></strong></br>
     <i>Luanne Sinnamon, Lisa Nathan, Saguna Shankar, Mckelle Hansen and Diana Marshall</i>
     </td>
   </tr>
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>12:30pm - 1:00pm</td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ Zoom:
   </td>
   </tr>
     <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>2:00pm - 2:30pm</td>
   </tr>
   
@@ -147,7 +147,7 @@ Zoom:
   </tr>
   
   <tr>
-    <td>Break</td>
+    <td>Pause</td>
     <td colspan=5>3:30pm - 4:00pm</td>
   </tr>
   
@@ -200,7 +200,7 @@ Zoom:
   </tr>
   <tr>
     <th colspan=2>Séance</th>
-    <th colspan=2>Heure (EDT)</th>
+    <th colspan=2>Heure (HAE)</th>
     <th colspan=2>Présentation</th>
   </tr>
 
@@ -237,7 +237,7 @@ Zoom:
 
 
   <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>12:00pm - 12:30pm</td>
   </tr>
 
@@ -263,7 +263,7 @@ Zoom:
 
 
   <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>2:00pm - 2:30pm</td>
   </tr>
 
@@ -276,7 +276,7 @@ Zoom:
 
 
   <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>4:00pm - 4:30pm</td>
   </tr>
 
@@ -298,11 +298,11 @@ Zoom:
   </tr>
   <tr>
     <th colspan=2>Séance</th>
-    <th colspan=2>Heure (EDT)</th>
+    <th colspan=2>Heure (HAE)</th>
     <th colspan=2>Évènement</th>
   </tr>
   <tr>
-    <td colspan=2>SRF</td>
+    <td colspan=2>Forum de recherche étudiante</td>
     <td colspan=2>11:00am - 1:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/SRF/">Forum annuel de recherche étudiante de l’ACSI</a></strong><br>
         <i>Open to all<br>
@@ -310,11 +310,11 @@ Zoom:
   </td>
   </tr>
     <tr>
-    <td colspan=2>Break</td>
+    <td colspan=2>Pause</td>
     <td colspan=4>1:00pm - 2:00pm</td>
   </tr>
   <tr>
-    <td colspan=2>AGM</td>
+    <td colspan=2>Assemblée générale annuelle</td>
     <td colspan=2>2:00pm - 4:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/AGM/">Assemblée générale annuelle de l’ACSI</a></strong><br>
         <i>Cette réunion est ouverte à toutes et à tous</i>
