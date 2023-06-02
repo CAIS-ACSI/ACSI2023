@@ -1,5 +1,5 @@
 ---
-title: "Climate Action"
+title: "Action pour le climat à la bibliothèque : Soutenir la création de sens et la création de sens au milieu de l'incertitude et de la différence"
 event: CAIS2023
 event_url: 
 
