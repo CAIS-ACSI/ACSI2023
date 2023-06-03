@@ -72,6 +72,14 @@ Zoom:
         <i>Simon van Bellen</i>
     </td>
   </tr>
+   
+  <tr>
+    <td colspan=2>Prix de l'ACSI 2023</td>
+    <td colspan=2>4:30pm-5:00pm</td>
+    <td colspan=2>Prix d’excellence en recherche – niveau maîtrise, Prix – leader émergent, Prix d’excellence en recherche – thèse doctorale, Prix d’excellence en carrière
+    </td>
+  </tr>
+  
   <tr>
       <td colspan=6 style="font-size:20px"><strong><font>Jour 2 - Mercredi 7 Juin</font></strong></td>
   </tr>
