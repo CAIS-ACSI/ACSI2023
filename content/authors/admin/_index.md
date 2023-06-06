@@ -53,7 +53,7 @@ Zoom:
   </tr>
   <tr>
     <td colspan=2>Présentation des prix des meilleurs articles</td>
-    <td colspan=2>3:00pm - 4:00pm</td>
+    <td colspan=2>3:00pm - 3:30pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/02.Rathi/">Utilisation des hashtags par deux bibliothèques publiques canadiennes : un examen comparatif</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
